@@ -1,0 +1,16 @@
+C:\Users\xht\source\repos\Spider\Spider\bin\Debug\Spider.exe.config
+C:\Users\xht\source\repos\Spider\Spider\bin\Debug\Spider.exe
+C:\Users\xht\source\repos\Spider\Spider\bin\Debug\Spider.pdb
+C:\Users\xht\source\repos\Spider\Spider\obj\Debug\Spider.csprojAssemblyReference.cache
+C:\Users\xht\source\repos\Spider\Spider\obj\Debug\Spider.csproj.CoreCompileInputs.cache
+C:\Users\xht\source\repos\Spider\Spider\obj\Debug\Spider.exe
+C:\Users\xht\source\repos\Spider\Spider\obj\Debug\Spider.pdb
+C:\Users\王仁捷\Desktop\Spider\Spider\bin\Debug\Spider.exe.config
+C:\Users\王仁捷\Desktop\Spider\Spider\bin\Debug\Spider.exe
+C:\Users\王仁捷\Desktop\Spider\Spider\bin\Debug\Spider.pdb
+C:\Users\王仁捷\Desktop\Spider\Spider\obj\Debug\Spider.csprojAssemblyReference.cache
+C:\Users\王仁捷\Desktop\Spider\Spider\obj\Debug\Spider.csproj.CoreCompileInputs.cache
+C:\Users\王仁捷\Desktop\Spider\Spider\obj\Debug\Spider.exe
+C:\Users\王仁捷\Desktop\Spider\Spider\obj\Debug\Spider.pdb
+C:\Users\Administrator\Desktop\Spider\Spider\obj\Debug\Spider.exe
+C:\Users\Administrator\Desktop\Spider\Spider\obj\Debug\Spider.pdb
